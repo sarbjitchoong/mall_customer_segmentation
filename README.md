@@ -24,7 +24,7 @@ The main goals of a customer segmentation project are to divide a large customer
 - **Visualizing the Clusters**
 
 ### 🌻 Interpretations
-<img src="./asset/results.png" style="max-width: 300px"/>
+<img src="./asset/result.png" style="max-width: 300px"/>
 
 ### 🌻 Conclusion:
 Good news, the data shows that there isn't much difference in spending patterns between men and women, so we don't need to focus on gender-based marketing. To increase profits, it's a good idea to target younger customers with special campaigns and to focus on high-income customers by improving service and quality. Although the average-income customers spend moderately, attracting more of them through campaigns can still benefit the store's profits. With ongoing data analysis and smart decision-making, the store can stay competitive and meet the needs of their customers.
